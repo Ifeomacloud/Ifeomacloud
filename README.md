@@ -5,7 +5,7 @@
 
 <!-- About Me Section -->
 ## 🚀 **About Me**
-Hi! 👋 I'm **Ifeoma Okoye**, a passionate Cloud Security and DevOps Entgineer with hands-on experience in:
+Hi! 👋 I'm **Ifeoma Okoye**, a passionate Cloud Security and DevOps Engineer with hands-on experience in:
 - ☁️ **Google Cloud Platform** , **Microsoft Azure** and **AWS**
 - 🛠️ **Infrastructure as Code** using **Terraform**  
 - 🚢 **Kubernetes** for container orchestration  
