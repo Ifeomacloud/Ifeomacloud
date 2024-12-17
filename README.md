@@ -49,6 +49,8 @@ Hi! 👋 I'm **Ifeoma Okoye**, a passionate Cloud Security and DevOps Entgineer 
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Ifeomacloud&theme=dark&hide_border=false)
 
+[![GitHub Streak](https://streak-stats.demolab.com?userame=Ifeomacloud&theme=highcontrast&hide_border=true)
+
 
 
 
