@@ -63,10 +63,10 @@ Hi! 👋 I'm **Ifeoma Okoye**, a passionate Cloud Security and DevOps Engineer w
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ifeomacloud&theme=darkhub&margin-w=15&margin-h=15)
 
-###  Top Contributed Repositories
-![](https://komarev.com/ghpvc/?username=Ifeomacloud&color=blue)
 
- 
+###  Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Ifeomacloud&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ----
 
