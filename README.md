@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!+I'm+Ifeoma Okoye;Cloud Security+%26+DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!+I'm+Ifeoma Okoye;Cloud+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 <!-- About Me Section -->
