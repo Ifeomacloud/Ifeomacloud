@@ -45,17 +45,13 @@ Hi! 👋 I'm **Ifeoma Okoye**, a passionate Cloud and DevOps Engineer with hands
  
 ---
 
+## GitHub Stats:
 
-##  GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifeomacloud&show_icons=true&theme=dark&count_private=true)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifeomacloud&showicons=true&theme=dark&count_private=true)
+## GitHub Streak:
 
-
-##  GitHub Streak:
-
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=/Ifeomacloud&theme=dark&hide_border=false)
-
-
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ifeomacloud&theme=dark&hide_border=false)
 
 ## Most Used Languages:
 
