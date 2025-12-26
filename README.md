@@ -51,6 +51,8 @@ Hi! 👋 I'm **Ifeoma Okoye**, a passionate Cloud and DevOps Engineer with hands
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeomacloud&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ifeomacloud&theme=dark&hide_border=false)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ifeomacloud&theme=dark&margin-w=15&margin-h=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifeomacloud&show_icons=true&theme=dark)
+
 
 
 ###  Top Contributed Repo
