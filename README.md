@@ -47,7 +47,7 @@ Hi! 👋 I'm **Ifeoma Okoye**, a passionate Cloud and DevOps Engineer with hands
 
 ## GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifeomacloud&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ifeomacloud&show_icons=true&theme=dark&count_private=true)
 
 ## GitHub Streak:
 
